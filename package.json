@@ -1,0 +1,18 @@
+{
+  "name": "moviescrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "ioredis": "^4.19.2",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-recaptcha": "^3.2.2",
+    "redis": "^3.0.2",
+    "syno": "^2.2.0",
+    "user-agents": "^1.0.559"
+  }
+}
